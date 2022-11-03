@@ -6,10 +6,10 @@ import theme from "./theme";
 
 const App = () => {
   return (
-    <ChakraProvider theme={theme}>
-      <Header />
-      <Footer />
-    </ChakraProvider>
+      <ChakraProvider theme={theme}>
+        <Header />
+        <Footer />
+      </ChakraProvider>
   );
 };
 

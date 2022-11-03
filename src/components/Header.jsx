@@ -84,7 +84,7 @@ export default function Header() {
               </Box>
             </Box>
 
-            <Heading fontSize="25px">About 👨‍💼</Heading>
+            <Heading fontSize="25px">About</Heading>
             <Box>
               <Highlight
                 query={[
